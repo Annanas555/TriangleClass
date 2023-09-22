@@ -1,0 +1,6 @@
+E:\source\repos\TriangleLibrary\TriangleLibrary\bin\Debug\TriangleLibrary.dll
+E:\source\repos\TriangleLibrary\TriangleLibrary\bin\Debug\TriangleLibrary.pdb
+E:\source\repos\TriangleLibrary\TriangleLibrary\obj\Debug\TriangleLibrary.csproj.AssemblyReference.cache
+E:\source\repos\TriangleLibrary\TriangleLibrary\obj\Debug\TriangleLibrary.csproj.CoreCompileInputs.cache
+E:\source\repos\TriangleLibrary\TriangleLibrary\obj\Debug\TriangleLibrary.dll
+E:\source\repos\TriangleLibrary\TriangleLibrary\obj\Debug\TriangleLibrary.pdb
